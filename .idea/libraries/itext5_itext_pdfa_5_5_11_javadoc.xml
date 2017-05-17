@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="itext5-itext-pdfa-5.5.11-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-itext-pdfa-5.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-itext-xtra-5.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-itextpdf-5.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-xmlworker-5.5.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-itext-pdfa-5.5.11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-itext-xtra-5.5.11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-itextpdf-5.5.11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-xmlworker-5.5.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-itext-pdfa-5.5.11-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-itext-xtra-5.5.11-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-itextpdf-5.5.11-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/iText/itext5-xmlworker-5.5.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
